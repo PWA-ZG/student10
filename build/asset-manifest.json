@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e638517.css",
+    "main.js": "/static/js/main.f7053308.js",
+    "static/media/klubrkbg.jpeg": "/static/media/klubrkbg.31f06b2c2d899e200e30.jpeg",
+    "index.html": "/index.html",
+    "main.0e638517.css.map": "/static/css/main.0e638517.css.map",
+    "main.f7053308.js.map": "/static/js/main.f7053308.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e638517.css",
+    "static/js/main.f7053308.js"
+  ]
+}
